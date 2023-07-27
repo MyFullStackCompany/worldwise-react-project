@@ -7,6 +7,7 @@ import { CityList } from "./CityList";
 import { CountriesList } from "./CountriesList";
 import { City } from "./City";
 import { Form } from "./Form";
+import { SpinnerFullPage } from "./SpinnerFullPage";
 
 export {
   PageNav,
@@ -18,4 +19,5 @@ export {
   CountriesList,
   City,
   Form,
+  SpinnerFullPage,
 };
